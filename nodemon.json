@@ -1,0 +1,9 @@
+{
+  "watch": ["src", ".env"],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "delay": "500",
+  "ext": "js",
+  "exec": "npm run start:dev"
+}
